@@ -1,5 +1,5 @@
 def add(x,y):
-    return None
+    return x + y
 
-def nul(x,y):
-    return None
+def mul(x,y):
+    return x * y
